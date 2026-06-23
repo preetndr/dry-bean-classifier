@@ -7,7 +7,7 @@
 <a href="https://dry-bean-classifier.streamlit.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit" />
 </a>
-<a href="#">
+<a href="https://www.kaggle.com/code/preetndr/dry-bean-classification">
   <img src="https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle" />
 </a>
 <a href="https://github.com/preetndr/dry-bean-classifier">
@@ -34,10 +34,10 @@ A production-ready machine learning pipeline that classifies seven distinct vari
 👉 [Launch Streamlit App](https://dry-bean-classifier.streamlit.app/)
 
 **📓 Kaggle Notebook**<br>
-👉 [View Full Project Notebook](#)
+👉 [View Full Project Notebook](https://www.kaggle.com/code/preetndr/dry-bean-classification)
 
 **📊 Dataset Source**<br>
-👉 [Dry Bean Dataset](#)
+👉 [Dry Bean Dataset](https://www.kaggle.com/datasets/nimapourmoradi/dry-bean-dataset-classification)
 
 <br>
 
